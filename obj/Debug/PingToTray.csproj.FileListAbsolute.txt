@@ -1,0 +1,16 @@
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\bin\Debug\PingToTray.exe
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\bin\Debug\PingToTray.pdb
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.Form1.resources
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.exe
+c:\users\ray\documents\visual studio 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.pdb
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\bin\Debug\PingToTray.exe
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\bin\Debug\PingToTray.pdb
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.csprojResolveAssemblyReference.cache
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.Form1.resources
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.Properties.Resources.resources
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.csproj.GenerateResource.Cache
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.exe
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\PingToTray\PingToTray\obj\Debug\PingToTray.pdb
